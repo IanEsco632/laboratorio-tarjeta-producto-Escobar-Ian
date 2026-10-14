@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Frut & Fresh Drinks · Catálogo de Bebidas</title>
+  <link rel="stylesheet" href="./estilos.css">
+
+  <script type="module" src="./componentes/tarjeta-producto.js"></script>
+</head>
+<body>
+  <h1>Frut & Fresh Drinks</h1>
+
+  <main class="catalogo">
+
+    <tarjeta-producto precio="2.50" destacado>
+      <img slot="foto" src="./img/jugonaranja.png" alt="Jugo Natural de Naranja fresco">
+      <h3 slot="nombre">Jugo Natural de Naranja</h3>
+      <p>Exprimido al instante, 100% natural, lleno de vitamina C y frescura pura.</p>
+    </tarjeta-producto>
+
+    <tarjeta-producto precio="3.00">
+      <img slot="foto" src="./img/jugomora.png" alt="Batido cremoso de mora con leche">
+      <h3 slot="nombre">Batido de Mora con Leche</h3>
+      <p>Deliciosa combinación cremosa de moras frescas seleccionadas con leche.</p>
+    </tarjeta-producto>
+
+    <tarjeta-producto precio="2.25">
+      <img slot="foto" src="./img/jugodemaracuya.png" alt="Refresco tropical de maracuyá">
+      <h3 slot="nombre">Refresco de Maracuyá</h3>
+      <p>La bebida tropical ideal para calmar la sed con el toque perfecto de acidez.</p>
+    </tarjeta-producto>
+
+  </main>
+</body>
+</html>
