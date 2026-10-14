@@ -5,10 +5,10 @@ Programación Integrativa de Componentes Web · Unidad 1: Web Components
 | Dato | Completa |
 |---|---|
 | Emprendimiento | Frut & Fresh Drinks |
-| Estudiantes (Apellido Nombre) | Escobar Rivadeneira Ian Alfredo <br> [Compañero 2] <br> [Compañero 3] <br> [Compañero 4] |
+| Estudiantes (Apellido Nombre) | Escobar Rivadeneira Ian Alfredo <br> Sandoval Espinosa José María <br> Alcaciega Tigse Diego Alejandro <br>|
 | NRC | 36642 |
 | Fecha | 14 de octubre de 2026 |
-| Enlace del repositorio | [Enlace de GitHub de tu equipo] |
+| Enlace del repositorio | [https://github.com/IanEsco632/laboratorio-tarjeta-producto-Escobar-Ian.git] |
 
 ## Propuesta del emprendimiento
 
